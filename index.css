@@ -1,0 +1,39 @@
+div{
+    display: flex;
+
+    justify-content: center;
+    margin: 20px;
+
+}
+
+label {
+
+    width: 100px;
+    background-color: rgb(137, 129, 34);
+    text-align: center;
+    margin-right: 10px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 5px;
+
+
+}
+
+#header{
+    background-color: chocolate;
+    
+        border-radius: 5px;
+    color: azure;
+}
+
+input {
+    color:black;
+}
+
+
+
+body {
+    background-image: url("./bg.jpg");
+    background-size: cover;
+
+}
